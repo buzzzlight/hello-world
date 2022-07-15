@@ -1,2 +1,2 @@
 # hello-world
-My first repository (07-21-2021)
+My first repository
